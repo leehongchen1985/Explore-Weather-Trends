@@ -4,6 +4,13 @@
 
 The objective of this project is analysing local (Singapore) and global temperature data. A comparison will be done for the two data trends of Singapore and global temperature data.
 
+## Installation
+
+The following tools/software are needed for this study:
+
+- [excel](https://products.office.com/en-sg/excel)
+- [python (with Pandas and Matplotlib )](https://www.python.org/downloads/)
+- [pyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 ##	Scope/Steps involved in the Study
 
@@ -14,13 +21,9 @@ The scope of this report focuses on the two datasets which are Singapore and glo
 3.	Plotting time series plot (line chart) by Python – Pandas, Matplotlib
 4.	Data observation
 
-## Installation
+## Plotting time series plot (line chart) by Python – Pandas, Matplotlib
 
-The following tools/software are needed for this study:
-
-- [excel](https://products.office.com/en-sg/excel)
-- [python (with Pandas and Matplotlib )](https://www.python.org/downloads/)
-- [pyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+After installing pycharm and python (with Pandas and Matplotlib, you could plot the time series by using python script saved at "pycharm_plotting_time_series.zip"
 
 ## Observation
 
